@@ -1,0 +1,8 @@
+1.  support = 2 (10%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Increment in [1386.0; 2428.0]   -->   gtyp_Setup.x_Clean_Rack_HBW = False
+2.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.i_PWM in [0.0; 0.0]   -->   gtyp_Setup.x_Clean_Rack_HBW = False
+3.  support = 19 (95%) , confidence = 100 %  :  gtyp_HBW.di_Offset_Pos_Belt_Vertical in [370.0; 370.0]   -->   gtyp_Setup.x_Clean_Rack_HBW = False
+4.  support = 19 (95%) , confidence = 100 %  :  gtyp_HBW.di_Offset_Pos_Rack_Vertical in [370.0; 370.0]   -->   gtyp_Setup.x_Clean_Rack_HBW = False
+5.  support = 19 (95%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Horizontal in [600.0; 600.0]   -->   gtyp_Setup.x_Clean_Rack_HBW = False
+6.  support = 19 (95%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Vertical in [3200.0; 3200.0]   -->   gtyp_Setup.x_Clean_Rack_HBW = False
+7.  support = 20 (100%) , confidence = 100 %  :  gtyp_Setup.i_Color_Sensor_Selection in [0.0; 0.0]   -->   gtyp_Setup.x_Clean_Rack_HBW = False
+8.  support = 20 (100%) , confidence = 100 %  :  gtyp_Setup.i_Pos_Selection in [0.0; 0.0]   -->   gtyp_Setup.x_Clean_Rack_HBW = False

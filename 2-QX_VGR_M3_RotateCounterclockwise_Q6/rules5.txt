@@ -1,0 +1,16 @@
+1.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+2.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+3.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+4.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+5.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+6.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+7.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+8.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+9.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+10.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+11.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+12.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+13.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+14.  support = 1 (1%) , confidence = 100 %  :   in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+15.  support = 3 (4%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Actual_Position in [198.0; 380.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = FALSE
+16.  support = 2 (3%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Actual_Position in [1695.0; 1700.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = TRUE

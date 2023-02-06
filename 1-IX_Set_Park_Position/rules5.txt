@@ -1,0 +1,3 @@
+1. support = 1 (100%) , confidence = 100 %  :  IX_Set_Park_Position = TRUE   -->   QX_VGR_ValveVacuum_Q8 = FALSE
+1. support = 1 (100%) , confidence = 100 %  :  IX_Set_Park_Position = FALSE   -->   QX_VGR_ValveVacuum_Q8 = FALSE
+1. support = 1 (100%) , confidence = 100 %  :  IX_Set_Park_Position = FALSE   -->   QX_VGR_ValveVacuum_Q8 = TRUE

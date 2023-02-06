@@ -1,0 +1,57 @@
+1.  support = 1 (5%) , confidence = 100 %  :  gtyp_Interface_Dashboard.Publish.PosPanTiltUnit.s_cmd in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+2.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_DSI_rotate in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+3.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_MPO_horizontal in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+4.  support = 2 (10%) , confidence = 100 %  :  gtyp_VGR.horizontal_Axis.di_Actual_Position in [896.0; 896.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+5.  support = 3 (15%) , confidence = 100 %  :  gtyp_VGR.horizontal_Axis.di_Increment in [896.0; 896.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+6.  support = 6 (30%) , confidence = 100 %  :  gtyp_VGR.horizontal_Axis.di_Target_Position in [900.0; 900.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+7.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.di_Actual_Position in [5120.0; 5120.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+8.  support = 2 (10%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.di_Increment in [5040.0; 5346.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+9.  support = 5 (25%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.di_Target_Position in [700.0; 700.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+10.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Actual_Position in [2457.0; 2457.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+11.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Increment in [867.0; 867.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+12.  support = 4 (20%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Target_Position in [2450.0; 2950.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+13.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.horizontal_Axis.di_Increment in [1033.0; 1033.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+14.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.di_Actual_Position in [3501.0; 3501.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+15.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.di_Increment in [3503.0; 3503.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+16.  support = 2 (10%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Actual_Position in [1155.0; 1163.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+17.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Increment in [1163.0; 1163.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+1.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.Config.di_Pos_Window in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+2.  support = 2 (10%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Actual_Position in [8601.0; 13750.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+3.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_DSO_Discard_vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+4.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_DSO_horizontal in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+5.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_DSO_rotate in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+6.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_NFC_vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+7.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_NiO_vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+8.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_Park_horizontal in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+9.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_Park_vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+1.  support = 8 (40%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Actual_Position in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+2.  support = 8 (40%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Increment in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+3.  support = 4 (20%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Target_Position in [18.0; 18.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+4.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.i_PWM in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+5.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.Config.di_Pos_Window in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+6.  support = 7 (35%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Actual_Position in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+7.  support = 2 (10%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Target_Position in [2430.0; 2430.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+8.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_PosBelt_Vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+9.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Increment in [13658.0; 13658.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+10.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Vertical_Axis.Config.di_Pos_Soft_Switch in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+11.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Vertical_Axis.i_PWM in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+12.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.di_Pos_Centre_Vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+13.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.di_Pos_HBW_Horizontal in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+14.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.di_Pos_HBW_Vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+15.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Actual_Position in [1177.0; 1177.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+16.  support = 3 (15%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Increment in [2875.0; 2875.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+17.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Actual_Position in [402.0; 402.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+18.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Increment in [16317.0; 16317.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+1.  support = 7 (35%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Increment in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+2.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.i_PWM in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+3.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Offset_Pos_Belt_Vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+4.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Offset_Pos_Rack_Vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+5.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Horizontal in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+6.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+7.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Increment in [402.0; 402.0]   -->   QX_MPO_Compressor_Q10 = TRUE
+8.  support = 7 (35%) , confidence = 100 %  :  IX_HBW_LightBarrierOutside_I3 = TRUE  AND  gtyp_HBW.Vertical_Axis.di_Increment in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = FALSE
+9.  support = 7 (35%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Increment in [0.0; 0.0]   -->   IX_HBW_LightBarrierOutside_I3 = TRUE  AND  QX_MPO_Compressor_Q10 = FALSE
+10.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.i_PWM in [0.0; 0.0]   -->   IX_HBW_LightBarrierOutside_I3 = TRUE  AND  QX_MPO_Compressor_Q10 = FALSE
+11.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Offset_Pos_Belt_Vertical in [0.0; 0.0]   -->   IX_HBW_LightBarrierOutside_I3 = TRUE  AND  QX_MPO_Compressor_Q10 = FALSE
+12.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Offset_Pos_Rack_Vertical in [0.0; 0.0]   -->   IX_HBW_LightBarrierOutside_I3 = TRUE  AND  QX_MPO_Compressor_Q10 = FALSE
+13.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Vertical in [0.0; 0.0]   -->   IX_HBW_LightBarrierOutside_I3 = TRUE  AND  QX_MPO_Compressor_Q10 = FALSE

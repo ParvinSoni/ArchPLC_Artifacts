@@ -1,0 +1,5 @@
+gtyp_Interface_Dashboard.Subscribe.State_Order.s_state,QX_MPO_M1_TurnTableCounterclockwise_Q2
+WAITING_FOR_ORDER,False
+WAITING_FOR_ORDER,False
+ORDERED,False
+IN_PROCESS,False

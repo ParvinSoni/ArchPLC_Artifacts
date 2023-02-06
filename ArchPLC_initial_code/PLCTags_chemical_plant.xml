@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Tagtable name='ControllerTagsFolder'>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW0'>flow_set</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW1'>a_setpoint</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW2'>pressure_sp</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW3'>override_sp</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW4'>level_sp</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW0'>f1_valve_pos</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW1'>f1_flow</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW2'>f2_valve_pos</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW3'>f2_flow</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW4'>purge_valve_pos</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW5'>purge_flow</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW6'>product_valve_pos</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW7'>product_flow</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW8'>pressure</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW9'>level</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW10'>a_in_purge</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW11'>b_in_purge</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%IW12'>c_in_purge</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%QW0'>f1_valve_sp</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%QW1'>f2_valve_sp</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%QW2'>purge_valve_sp</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%QW3'>product_valve_sp</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW20'>hmi_pressure</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW21'>hmi_level</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW22'>hmi_f1_valve_pos</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW23'>hmi_f1_flow</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW24'>hmi_f2_valve_pos</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW25'>hmi_f2_flow</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW26'>hmi_purge_valve_pos</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW27'>hmi_purge_flow</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW28'>hmi_product_valve_pos</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW29'>hmi_product_flow</Tag>
+  <Tag type='Int' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%MW30'>scan_count</Tag>
+  <Tag type='Bool' hmiVisible='True' hmiWriteable='True' hmiAccessible='True' retain='True' remark='' addr='%QX0.0'>run_bit</Tag>
+</Tagtable>

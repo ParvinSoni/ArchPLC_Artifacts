@@ -1,0 +1,2 @@
+1.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Offset_Pos_Rack_Vertical in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = False
+2.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Vertical in [0.0; 0.0]   -->   QX_VGR_M3_RotateCounterclockwise_Q6 = False

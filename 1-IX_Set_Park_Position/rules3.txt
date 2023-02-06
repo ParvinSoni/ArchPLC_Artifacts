@@ -1,0 +1,17 @@
+1.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.Config.di_Pos_Window in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+2.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Actual_Position in [2873.0; 2873.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+3.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Increment in [20.0; 20.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+4.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.i_PWM in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+5.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.Config.di_Pos_Window in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+6.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Actual_Position in [396.0; 396.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+8.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_PosBelt_Vertical in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+9.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Increment in [-27646.0; -27646.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+10.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.i_PWM in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+11.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Vertical_Axis.Config.di_Pos_Soft_Switch in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+12.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.di_Pos_HBW_Horizontal in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+13.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.di_Pos_HBW_Vertical in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+14.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.di_Pos_Park_Horizontal in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+15.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Actual_Position in [1177.0; 1177.0]   -->   QX_VGR_ValveVacuum_Q8 = True
+16.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Increment in [23.0; 23.0]   -->   QX_VGR_ValveVacuum_Q8 = True
+17.  support = 2 (10%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Actual_Position in [2802.0; 2802.0]   -->   QX_VGR_ValveVacuum_Q8 = True
+18.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Increment in [28194.0; 28194.0]   -->   QX_VGR_ValveVacuum_Q8 = True

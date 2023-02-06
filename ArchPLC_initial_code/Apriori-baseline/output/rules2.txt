@@ -1,0 +1,68 @@
+1. support = 1 (1%) , confidence = 100 %  :  IX_SSC_LightBarrierOutsourcing_I4 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  IX_HBW_LightBarrierOutside_I3 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.horizontal_Axis.di_Increment in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Actual_Position in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.x_Position_Reached = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  IX_MPO_RefSwitchTurnTable_PosVac_I1 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.horizontal_Axis.di_Target_Position in [600; 600]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_Interface_TXT_Controler.Subscribe.State_NFC_Device.Workpiece.s_state = ''   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.di_Pos_HBW_rotate in [5350; 5350]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.Config.di_Neg_Soft_Switch in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_Setup.i_Color_Sensor_Selection in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Horizontal in [600; 600]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.di_Pos_Centre_Vertical in [1400; 1400]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.di_Offset_Pos_DSI_NFC_vertical in [1200; 1200]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.Config.di_Pos_Soft_Switch in [5450; 5450]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_Setup.i_Pos_Selection in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.di_Pos_Park_Vertical in [200; 200]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.x_Referenced = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.x_HBW_PickedUp_Accepted = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.Vertical_Axis.x_Position_Reached = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_Interface_Dashboard.Subscribe.State_Order.s_state = 'IN_PROCESS'   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_Interface_Dashboard.Subscribe.State_Order.s_state = 'ORDERED'   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  IX_MPO_LightBarrierEndOfConBelt_I3 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  QX_SSC_LED_Green_Q5 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.x_State_Process = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Increment in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_Interface_TXT_Controler.Subscribe.State_NFC_Device.Workpiece.s_id = ''   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.di_Pos_DSO_horizontal in [2070; 2070]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.x_Start_Positioning = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.di_Pos_NiO_rotate in [1100; 1100]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Actual_Position in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Increment in [1740; 1740]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Increment in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.di_Actual_Position in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  IX_MPO_LightBarrierOven_I9 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.x_HBW_Outsource = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  IX_MPO_RefSwitchTurnTable_PosBelt_I2 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.di_Pos_HBW_Discard_vertical in [200; 200]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.x_Referenced = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.di_Pos_HBW_Horizontal in [5400; 5400]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.di_Increment in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_Interface_Dashboard.Publish.PosPanTiltUnit.s_cmd = ''   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.di_Pos_HBW_horizontal in [600; 600]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_Interface_TXT_Controler.Subscribe.State_NFC_Device.Workpiece.s_type = ''   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.Vertical_Axis.Config.di_Neg_Soft_Switch in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Target_Position in [400; 400]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Target_Position in [5400; 5400]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.x_Referenced = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.di_Pos_NiO_horizontal in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_SSC.Vertical_Axis.x_Referenced = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.horizontal_Axis.di_Actual_Position in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.x_Referenced = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  IX_SSC_LightBarrierStorage_I3 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Increment in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.i_PWM in [600; 600]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Actual_Position in [1420; 1420]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Actual_Position in [0; 0]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.x_Referenced = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.x_Position_Reached = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.horizontal_Axis.x_Referenced = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.x_Ready_For_Outsource = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  IX_MPO_RefSwitchOvenFeederInside_I6 = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Target_Position in [1150; 1150]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.vertical_Axis.di_Target_Position in [200; 200]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.di_Target_Position in [5350; 5350]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.rotate_Axis.x_Start_Positioning = True   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_VGR.di_Pos_NiO_vertical in [2700; 2700]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False
+1. support = 1 (1%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Vertical in [3200; 3200]   -->   QX_MPO_M1_TurnTableCounterclockwise_Q2 = False

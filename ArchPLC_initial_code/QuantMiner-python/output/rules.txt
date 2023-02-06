@@ -1,0 +1,7 @@
+1. support = 3952 (75%) , confidence = 100 %  :  IW8 in [30475.0; 55090.0]   -->   MW2 in [55295.0; 55295.0]
+1. support = 1630 (31%) , confidence = 100 %  :  IW8 in [54405.0; 55144.0]   -->   MW2 in [55295.0; 55295.0]
+1. support = 3590 (68%) , confidence = 100 %  :  IW8 in [5595.0; 54883.0]   -->   MW2 in [55295.0; 55295.0]
+1. support = 4704 (89%) , confidence = 100 %  :  IW4 in [0.0; 0.0]   -->   MW2 in [0; 55295.0]
+1. support = 502 (9%) , confidence = 100 %  :  IW4 in [12160.0; 65535.0]   -->   MW2 in [55295.0; 55295.0]
+1. support = 4699 (89%) , confidence = 100 %  :  QW2 in [0.0; 0.0]   -->   MW2 in [0; 55295.0]
+1. support = 4699 (89%) , confidence = 100 %  :  QW2 in [0.0; 0.0]   -->   MW2 in [0; 55295.0]

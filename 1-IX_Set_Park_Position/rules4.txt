@@ -1,0 +1,4 @@
+1.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Increment in [34.0; 34.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+2.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.i_PWM in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+3.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.di_Pos_Park_Vertical in [0.0; 0.0]   -->   QX_VGR_ValveVacuum_Q8 = False
+4.  support = 1 (5%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Increment in [3247.0; 3247.0]   -->   QX_VGR_ValveVacuum_Q8 = True

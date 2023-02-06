@@ -1,0 +1,21 @@
+gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[10].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[11].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[12].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[13].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[14].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[15].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[16].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[17].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[18].i_code,gtyp_Interface_Dashboard.Subscribe.State_NFC_Device.History[19].i_code,gtyp_Interface_Dashboard.Publish.OrderWorkpieceButton.s_type,gtyp_Interface_Dashboard.Publish.ActionButtonNFCModule.s_cmd,gtyp_Interface_Dashboard.Publish.PosPanTiltUnit.s_cmd,gtyp_Interface_Dashboard.Publish.PosPanTiltUnit.i_degree,gtyp_Interface_Dashboard.Publish.ConfigRateEnviormentSensor.di_period,gtyp_Interface_Dashboard.Publish.ConfigRateBrightnessSensor.x_on,gtyp_Interface_Dashboard.Publish.ConfigRateBrightnessSensor.i_fps,gtyp_Interface_Dashboard.Publish.ConfigRateCameraPicture.di_period,gtyp_Interface_Dashboard.Publish.ldt_AcknowledgeButton,gtyp_VGR.di_Pos_DSI_Collect_vertical,gtyp_VGR.di_Pos_MPO_vertical,gtyp_VGR.di_Pos_HBW_Discard_vertical,gtyp_VGR.horizontal_Axis.di_Target_Position,gtyp_VGR.horizontal_Axis.di_Actual_Position,gtyp_VGR.horizontal_Axis.Config.di_Pos_Soft_Switch,QX_VGR_ValveVacuum_Q8
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,600,593,20000,False
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,600,0,20000,True
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,900,896,20000,True
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,900,894,20000,True
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,600,0,20000,False
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,600,0,20000,False
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,20,13,20000,True
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,900,895,20000,False
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,600,0,20000,False
+0,0,0,0,0,0,0,0,0,0,,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,600,0,20000,True
+0,0,0,0,0,0,0,0,0,0,WHITE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,3400,755,20000,False
+0,0,0,0,0,0,0,0,0,0,WHITE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,3400,0,20000,True
+0,0,0,0,0,0,0,0,0,0,WHITE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,900,668,20000,True
+0,0,0,0,0,0,0,0,0,0,WHITE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,900,894,20000,True
+0,0,0,0,0,0,0,0,0,0,WHITE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,600,315,20000,False
+0,0,0,0,0,0,0,0,0,0,WHITE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,600,0,20000,True
+0,0,0,0,0,0,0,0,0,0,BLUE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,3400,2770,20000,False
+0,0,0,0,0,0,0,0,0,0,BLUE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,3400,0,20000,True
+0,0,0,0,0,0,0,0,0,0,BLUE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,900,896,20000,False
+0,0,0,0,0,0,0,0,0,0,BLUE,,,0,0,False,0,0,1601-01-01 00:00:00,2950,1800,200,2070,0,20000,False

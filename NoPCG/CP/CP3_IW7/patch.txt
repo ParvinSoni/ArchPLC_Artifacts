@@ -1,0 +1,99 @@
+#newValue := *value*;
+#correctValue := TRUE;
+#foundViolations := FALSE;
+IF "IW6" >= 30245.0 AND "IW6" <= 31421.0 THEN
+	IF (#newValue >= 65535.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "IW8" >= 54175.0 AND "IW8" <= 54579.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "IW9" >= 28955.0 AND "IW9" <= 29007.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "MW1" >= 30801.0 AND "MW1" <= 30801.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "MW2" >= 55295.0 AND "MW2" <= 55295.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "MW3" >= 31675.0 AND "MW3" <= 31675.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "MW4" >= 28835.0 AND "MW4" <= 28835.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "QW1" >= 2260.0 AND "QW1" <= 2703.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "QW2" >= 0.0 AND "QW2" <= 0.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "QW3" >= 65535.0 AND "QW3" <= 65535.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 0.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 0.0
+	END_IF;
+END_IF;
+IF "IW0" >= 65535.0 AND "IW0" <= 65535.0 THEN
+	IF (#newValue >= 19385.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "IW7" >= 27632.0 AND "IW7" <= 27691.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 0.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 0.0
+	END_IF;
+END_IF;
+IF "MW0" >= 19660.0 AND "MW0" <= 19660.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "IW0" >= 0.0 AND "IW0" <= 65535.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 65535.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 65535.0
+	END_IF;
+END_IF;
+IF "IW7" >= 27672.0 AND "IW7" <= 27791.0 THEN
+	IF (#newValue >= 0.0 AND #newValue <= 0.0) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := 0.0
+	END_IF;
+END_IF;
+IF #foundViolations = FALSE THEN
+	"QW0" := #newValue;
+END_IF;
+ELSE
+	"QW0" := #correctValue;
+END_IF;

@@ -1,0 +1,29 @@
+========== Samples Evaluation ==========
+
+Total samples: 137
+Benign samples: 135
+Malicious samples: 2
+Violated samples: 10
+Non-violated samples: 127
+TP samples: 2
+TN samples: 127
+FN samples: 0
+FP samples: 8
+Validation (TP+TN+FP+FN) == total-samples: True
+
+========== Rules Evaluation ==========
+
+Total rules: 147
+Non-violated rules: 142
+Violated rules: 5
+TP Rules: 4
+FP Rules: 1
+-----
+Total rule-predictions: 15
+Total rule-violations: 12
+TP rule-violations: 4
+TN rule-violations: 3
+FP rule-violations: 8
+FN rule-violations: 0
+Validation (TP+FP) == rule-violations: True
+Validation (TN+FN) == non-rule-violations: True

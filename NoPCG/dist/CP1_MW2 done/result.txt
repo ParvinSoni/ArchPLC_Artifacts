@@ -1,0 +1,13 @@
+C:\Users\redn0se\Desktop\ArchPLC\NEW_EX2\CP1_MW2>python useInvariantRulesFindFpFn.py
+
+Total violation samples: 0
+Number of rules: 12
+Detected: 0 violations.
+Detected: 0 violated rules.
+
+================
+
+Total violation samples: 1495
+Number of rules: 12
+Detected: 7190 violations.
+Detected: 11 violated rules.

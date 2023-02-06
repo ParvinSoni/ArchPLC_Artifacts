@@ -1,0 +1,9 @@
+1.  support = 1 (5%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.Config.di_Pos_Window in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = False
+2.  support = 2 (10%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Actual_Position in [8601.0; 13750.0]   -->   QX_MPO_Compressor_Q10 = False
+3.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_DSO_Discard_vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = False
+4.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_DSO_horizontal in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = False
+5.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_DSO_rotate in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = False
+6.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_NFC_vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = False
+7.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_NiO_vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = False
+8.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_Park_horizontal in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = False
+9.  support = 1 (5%) , confidence = 100 %  :  gtyp_VGR.di_Pos_Park_vertical in [0.0; 0.0]   -->   QX_MPO_Compressor_Q10 = False

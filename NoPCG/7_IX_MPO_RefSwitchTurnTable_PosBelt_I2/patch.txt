@@ -1,0 +1,999 @@
+#newValue := *value*;
+#correctValue := TRUE;
+#foundViolations := FALSE;
+IF "gtyp_Interface_Dashboard".Subscribe.AlertMessage.s_data >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.AlertMessage.s_data <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.AlertMessage.s_id >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.AlertMessage.s_id <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.BrightnessSensor.i_ldr >= 3964.0 AND "gtyp_Interface_Dashboard".Subscribe.BrightnessSensor.i_ldr <= 3976.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.BrightnessSensor.r_br >= 72.8 AND "gtyp_Interface_Dashboard".Subscribe.BrightnessSensor.r_br <= 72.8 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.CameraPicture.s_data >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.CameraPicture.s_data <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.di_gr >= 378035.0 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.di_gr <= 387368.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.i_aq >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.i_aq <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.i_iaq >= 90.0 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.i_iaq <= 91.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_h >= 45.7 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_h <= 45.8 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_p >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_p <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_rh >= 37.86 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_rh <= 37.86 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_rt >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_rt <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_t >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_t <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_HBW.i_code >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_HBW.i_code <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_HBW.s_description >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_HBW.s_description <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_HBW.s_target >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_HBW.s_target <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_MPO.s_description >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_MPO.s_description <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_MPO.s_target >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_MPO.s_target <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_VGR.i_code >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_VGR.i_code <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_VGR.s_description >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_VGR.s_description <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.BrightnessSensor.i_ldr >= 3894.0 AND "gtyp_Interface_Dashboard".Subscribe.BrightnessSensor.i_ldr <= 3894.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.BrightnessSensor.r_br >= 71.1 AND "gtyp_Interface_Dashboard".Subscribe.BrightnessSensor.r_br <= 71.1 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.di_gr >= 399721.0 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.di_gr <= 399721.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.i_iaq >= 84.0 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.i_iaq <= 84.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_h >= 44.5 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_h <= 44.5 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_rh >= 36.8 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_rh <= 36.8 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_rt >= 25.82 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_rt <= 25.82 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_t >= 22.6 AND "gtyp_Interface_Dashboard".Subscribe.EnvironmentSensor.r_t <= 22.6 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_DSI.i_code >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_DSI.i_code <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_DSI.s_description >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_DSI.s_description <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_DSI.s_target >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_DSI.s_target <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_DSO.s_description >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_DSO.s_description <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_DSO.s_target >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_DSO.s_target <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_SLD.s_description >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_SLD.s_description <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.State_SLD.s_target >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.State_SLD.s_target <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[0$1].s_state >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[0$1].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[0$1].s_type >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[0$1].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[0$2].s_state >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[0$2].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[0$2].s_type >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[0$2].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$0].s_id >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$0].s_id <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$1].s_state >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$1].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$1].s_type >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$1].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$2].s_state >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$2].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$2].s_type >= 0.0 AND "gtyp_Interface_Dashboard".Subscribe.Stock_HBW.StockItem[1$2].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Publish.ActionButtonNFCModule.s_cmd >= 0.0 AND "gtyp_Interface_Dashboard".Publish.ActionButtonNFCModule.s_cmd <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".rotate_Axis.Config.di_Pos_Soft_Switch >= 0.0 AND "gtyp_VGR".rotate_Axis.Config.di_Pos_Soft_Switch <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".vertical_Axis.Config.di_Pos_Soft_Switch >= 0.0 AND "gtyp_VGR".vertical_Axis.Config.di_Pos_Soft_Switch <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".History[6].i_code >= 700.0 AND "gtyp_VGR".History[6].i_code <= 700.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Offset_Pos_HBW_vertical >= 0.0 AND "gtyp_VGR".di_Offset_Pos_HBW_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_SLD_Blue_horizontal >= 0.0 AND "gtyp_VGR".di_Pos_SLD_Blue_horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_SLD_Blue_rotate >= 0.0 AND "gtyp_VGR".di_Pos_SLD_Blue_rotate <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_SLD_Blue_vertical >= 0.0 AND "gtyp_VGR".di_Pos_SLD_Blue_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_SLD_Red_rotate >= 0.0 AND "gtyp_VGR".di_Pos_SLD_Red_rotate <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_SLD_Red_vertical >= 0.0 AND "gtyp_VGR".di_Pos_SLD_Red_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_SLD_White_horizontal >= 0.0 AND "gtyp_VGR".di_Pos_SLD_White_horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_SLD_White_vertical >= 0.0 AND "gtyp_VGR".di_Pos_SLD_White_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Offset_Pos_DSO_vertical >= 0.0 AND "gtyp_VGR".di_Offset_Pos_DSO_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_MPO".i_PWM_TurnTable >= 0.0 AND "gtyp_MPO".i_PWM_TurnTable <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".w_Threshold_Red_Blue >= 0.0 AND "gtyp_SSC".w_Threshold_Red_Blue <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".w_Threshold_White_Red >= 0.0 AND "gtyp_SSC".w_Threshold_White_Red <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Horizontal_Axis.Config.di_Pos_Soft_Switch >= 0.0 AND "gtyp_HBW".Horizontal_Axis.Config.di_Pos_Soft_Switch <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[0$0].di_PosRack_Horizontal >= 0.0 AND "gtyp_HBW".Rack_Pos[0$0].di_PosRack_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[0$1].di_PosRack_Vertical >= 0.0 AND "gtyp_HBW".Rack_Pos[0$1].di_PosRack_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[0$2].di_PosRack_Horizontal >= 0.0 AND "gtyp_HBW".Rack_Pos[0$2].di_PosRack_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[1$0].di_PosRack_Horizontal >= 0.0 AND "gtyp_HBW".Rack_Pos[1$0].di_PosRack_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[1$0].di_PosRack_Vertical >= 0.0 AND "gtyp_HBW".Rack_Pos[1$0].di_PosRack_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[1$1].di_PosRack_Horizontal >= 0.0 AND "gtyp_HBW".Rack_Pos[1$1].di_PosRack_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[1$1].di_PosRack_Vertical >= 0.0 AND "gtyp_HBW".Rack_Pos[1$1].di_PosRack_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[1$2].di_PosRack_Vertical >= 0.0 AND "gtyp_HBW".Rack_Pos[1$2].di_PosRack_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[2$1].di_PosRack_Horizontal >= 0.0 AND "gtyp_HBW".Rack_Pos[2$1].di_PosRack_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Pos[2$1].di_PosRack_Vertical >= 0.0 AND "gtyp_HBW".Rack_Pos[2$1].di_PosRack_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[0$1].s_state >= 0.0 AND "gtyp_HBW".Rack_Workpiece[0$1].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[0$1].s_type >= 0.0 AND "gtyp_HBW".Rack_Workpiece[0$1].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[0$2].s_state >= 0.0 AND "gtyp_HBW".Rack_Workpiece[0$2].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[0$2].s_type >= 0.0 AND "gtyp_HBW".Rack_Workpiece[0$2].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[1$0].s_id >= 0.0 AND "gtyp_HBW".Rack_Workpiece[1$0].s_id <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[1$1].s_state >= 0.0 AND "gtyp_HBW".Rack_Workpiece[1$1].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[1$1].s_type >= 0.0 AND "gtyp_HBW".Rack_Workpiece[1$1].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[1$2].s_state >= 0.0 AND "gtyp_HBW".Rack_Workpiece[1$2].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[1$2].s_type >= 0.0 AND "gtyp_HBW".Rack_Workpiece[1$2].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[2$1].s_state >= 0.0 AND "gtyp_HBW".Rack_Workpiece[2$1].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[2$1].s_type >= 0.0 AND "gtyp_HBW".Rack_Workpiece[2$1].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[2$2].s_state >= 0.0 AND "gtyp_HBW".Rack_Workpiece[2$2].s_state <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_Workpiece[2$2].s_type >= 0.0 AND "gtyp_HBW".Rack_Workpiece[2$2].s_type <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_History[1$0].History[0].i_code >= 0.0 AND "gtyp_HBW".Rack_History[1$0].History[0].i_code <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_History[1$0].History[1].i_code >= 0.0 AND "gtyp_HBW".Rack_History[1$0].History[1].i_code <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Rack_History[1$0].History[2].i_code >= 0.0 AND "gtyp_HBW".Rack_History[1$0].History[2].i_code <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".i_PWM_Cantilever >= 0.0 AND "gtyp_HBW".i_PWM_Cantilever <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".i_PWM_ConveyorBelt >= 0.0 AND "gtyp_HBW".i_PWM_ConveyorBelt <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".History[3].i_code >= 400.0 AND "gtyp_HBW".History[3].i_code <= 400.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_PosRack_A1_Horizontal >= 0.0 AND "gtyp_HBW".di_PosRack_A1_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_PosRack_B2_Horizontal >= 0.0 AND "gtyp_HBW".di_PosRack_B2_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_PosRack_B2_Vertical >= 0.0 AND "gtyp_HBW".di_PosRack_B2_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SLD".i_CounterValue_Blue >= 0.0 AND "gtyp_SLD".i_CounterValue_Blue <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Setup".i_Calib_CounterValue_Red >= 0.0 AND "gtyp_Setup".i_Calib_CounterValue_Red <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Setup".i_Calib_CounterValue_White >= 0.0 AND "gtyp_Setup".i_Calib_CounterValue_White <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_TXT_Controler".Publish.ActionButtonNFCModule.History[0].i_code >= 0.0 AND "gtyp_Interface_TXT_Controler".Publish.ActionButtonNFCModule.History[0].i_code <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_TXT_Controler".Publish.ActionButtonNFCModule.History[1].i_code >= 0.0 AND "gtyp_Interface_TXT_Controler".Publish.ActionButtonNFCModule.History[1].i_code <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_TXT_Controler".Publish.ActionButtonNFCModule.History[4].i_code >= 500.0 AND "gtyp_Interface_TXT_Controler".Publish.ActionButtonNFCModule.History[4].i_code <= 500.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_TXT_Controler".Publish.ActionButtonNFCModule.Workpiece.s_id >= 0.0 AND "gtyp_Interface_TXT_Controler".Publish.ActionButtonNFCModule.Workpiece.s_id <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SLD".w_Threshold_Red_Blue >= 0.0 AND "gtyp_SLD".w_Threshold_Red_Blue <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_TXT_Controler".Subscribe.State_NFC_Device.History[0].i_code >= 100.0 AND "gtyp_Interface_TXT_Controler".Subscribe.State_NFC_Device.History[0].i_code <= 100.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_TXT_Controler".Subscribe.State_NFC_Device.History[1].i_code >= 200.0 AND "gtyp_Interface_TXT_Controler".Subscribe.State_NFC_Device.History[1].i_code <= 200.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "QW_MPO_PWM_TurnTable_M1" >= 0.0 AND "QW_MPO_PWM_TurnTable_M1" <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "QW_VGR_PWM_Vertical_M1" >= 0.0 AND "QW_VGR_PWM_Vertical_M1" <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "QW_HBW_PWM_Cantilever_M4" >= 0.0 AND "QW_HBW_PWM_Cantilever_M4" <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "QW_HBW_PWM_HorizontalAxis_M2" >= 0.0 AND "QW_HBW_PWM_HorizontalAxis_M2" <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "QW_SSC_PWM_Vertical_M1" >= 0.0 AND "QW_SSC_PWM_Vertical_M1" <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_Interface_Dashboard".Publish.PosPanTiltUnit.s_cmd >= 0.0 AND "gtyp_Interface_Dashboard".Publish.PosPanTiltUnit.s_cmd <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_DSI_rotate >= 0.0 AND "gtyp_VGR".di_Pos_DSI_rotate <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_MPO_horizontal >= 0.0 AND "gtyp_VGR".di_Pos_MPO_horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".horizontal_Axis.di_Actual_Position >= 896.0 AND "gtyp_VGR".horizontal_Axis.di_Actual_Position <= 896.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".horizontal_Axis.di_Increment >= 896.0 AND "gtyp_VGR".horizontal_Axis.di_Increment <= 896.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".horizontal_Axis.di_Target_Position >= 900.0 AND "gtyp_VGR".horizontal_Axis.di_Target_Position <= 900.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".rotate_Axis.di_Actual_Position >= 5120.0 AND "gtyp_VGR".rotate_Axis.di_Actual_Position <= 5120.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".rotate_Axis.di_Increment >= 5040.0 AND "gtyp_VGR".rotate_Axis.di_Increment <= 5346.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".rotate_Axis.di_Target_Position >= 700.0 AND "gtyp_VGR".rotate_Axis.di_Target_Position <= 700.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".vertical_Axis.di_Actual_Position >= 2457.0 AND "gtyp_VGR".vertical_Axis.di_Actual_Position <= 2457.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".vertical_Axis.di_Increment >= 867.0 AND "gtyp_VGR".vertical_Axis.di_Increment <= 867.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".vertical_Axis.di_Target_Position >= 2450.0 AND "gtyp_VGR".vertical_Axis.di_Target_Position <= 2950.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".horizontal_Axis.di_Increment >= 1033.0 AND "gtyp_VGR".horizontal_Axis.di_Increment <= 1033.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".rotate_Axis.di_Actual_Position >= 3501.0 AND "gtyp_VGR".rotate_Axis.di_Actual_Position <= 3501.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".rotate_Axis.di_Increment >= 3503.0 AND "gtyp_VGR".rotate_Axis.di_Increment <= 3503.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".vertical_Axis.di_Actual_Position >= 1155.0 AND "gtyp_VGR".vertical_Axis.di_Actual_Position <= 1163.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".vertical_Axis.di_Increment >= 1163.0 AND "gtyp_VGR".vertical_Axis.di_Increment <= 1163.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".Horizontal_Axis.Config.di_Pos_Window >= 0.0 AND "gtyp_SSC".Horizontal_Axis.Config.di_Pos_Window <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".Horizontal_Axis.di_Actual_Position >= 8601.0 AND "gtyp_SSC".Horizontal_Axis.di_Actual_Position <= 13750.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_DSO_Discard_vertical >= 0.0 AND "gtyp_VGR".di_Pos_DSO_Discard_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_DSO_horizontal >= 0.0 AND "gtyp_VGR".di_Pos_DSO_horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_DSO_rotate >= 0.0 AND "gtyp_VGR".di_Pos_DSO_rotate <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_NFC_vertical >= 0.0 AND "gtyp_VGR".di_Pos_NFC_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_NiO_vertical >= 0.0 AND "gtyp_VGR".di_Pos_NiO_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_Park_horizontal >= 0.0 AND "gtyp_VGR".di_Pos_Park_horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_VGR".di_Pos_Park_vertical >= 0.0 AND "gtyp_VGR".di_Pos_Park_vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Horizontal_Axis.di_Actual_Position >= 0.0 AND "gtyp_HBW".Horizontal_Axis.di_Actual_Position <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Horizontal_Axis.di_Increment >= 0.0 AND "gtyp_HBW".Horizontal_Axis.di_Increment <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Horizontal_Axis.di_Target_Position >= 18.0 AND "gtyp_HBW".Horizontal_Axis.di_Target_Position <= 18.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Horizontal_Axis.i_PWM >= 0.0 AND "gtyp_HBW".Horizontal_Axis.i_PWM <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.Config.di_Pos_Window >= 0.0 AND "gtyp_HBW".Vertical_Axis.Config.di_Pos_Window <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.di_Actual_Position >= 0.0 AND "gtyp_HBW".Vertical_Axis.di_Actual_Position <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.di_Target_Position >= 2430.0 AND "gtyp_HBW".Vertical_Axis.di_Target_Position <= 2430.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_PosBelt_Vertical >= 0.0 AND "gtyp_HBW".di_PosBelt_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".Horizontal_Axis.di_Increment >= 13658.0 AND "gtyp_SSC".Horizontal_Axis.di_Increment <= 13658.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".Vertical_Axis.Config.di_Pos_Soft_Switch >= 0.0 AND "gtyp_SSC".Vertical_Axis.Config.di_Pos_Soft_Switch <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".Vertical_Axis.i_PWM >= 0.0 AND "gtyp_SSC".Vertical_Axis.i_PWM <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".di_Pos_Centre_Vertical >= 0.0 AND "gtyp_SSC".di_Pos_Centre_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".di_Pos_HBW_Horizontal >= 0.0 AND "gtyp_SSC".di_Pos_HBW_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".di_Pos_HBW_Vertical >= 0.0 AND "gtyp_SSC".di_Pos_HBW_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Horizontal_Axis.di_Actual_Position >= 1177.0 AND "gtyp_HBW".Horizontal_Axis.di_Actual_Position <= 1177.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Horizontal_Axis.di_Increment >= 2875.0 AND "gtyp_HBW".Horizontal_Axis.di_Increment <= 2875.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.di_Actual_Position >= 402.0 AND "gtyp_HBW".Vertical_Axis.di_Actual_Position <= 402.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_SSC".Horizontal_Axis.di_Increment >= 16317.0 AND "gtyp_SSC".Horizontal_Axis.di_Increment <= 16317.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.di_Increment >= 0.0 AND "gtyp_HBW".Vertical_Axis.di_Increment <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.i_PWM >= 0.0 AND "gtyp_HBW".Vertical_Axis.i_PWM <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_Offset_Pos_Belt_Vertical >= 0.0 AND "gtyp_HBW".di_Offset_Pos_Belt_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_Offset_Pos_Rack_Vertical >= 0.0 AND "gtyp_HBW".di_Offset_Pos_Rack_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_Pos_Park_Horizontal >= 0.0 AND "gtyp_HBW".di_Pos_Park_Horizontal <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_Pos_Park_Vertical >= 0.0 AND "gtyp_HBW".di_Pos_Park_Vertical <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.di_Increment >= 402.0 AND "gtyp_HBW".Vertical_Axis.di_Increment <= 402.0 THEN
+	IF (#newValue = TRUE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := TRUE
+	END_IF;
+END_IF;
+IF "IX_HBW_LightBarrierOutside_I3" = TRUE AND "gtyp_HBW".Vertical_Axis.di_Increment >= 0.0 AND "gtyp_HBW".Vertical_Axis.di_Increment <= 0.0 THEN
+	IF (#newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.di_Increment >= 0.0 AND "gtyp_HBW".Vertical_Axis.di_Increment <= 0.0 THEN
+	IF (#newValue = TRUE AND #newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".Vertical_Axis.i_PWM >= 0.0 AND "gtyp_HBW".Vertical_Axis.i_PWM <= 0.0 THEN
+	IF (#newValue = TRUE AND #newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_Offset_Pos_Belt_Vertical >= 0.0 AND "gtyp_HBW".di_Offset_Pos_Belt_Vertical <= 0.0 THEN
+	IF (#newValue = TRUE AND #newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_Offset_Pos_Rack_Vertical >= 0.0 AND "gtyp_HBW".di_Offset_Pos_Rack_Vertical <= 0.0 THEN
+	IF (#newValue = TRUE AND #newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF "gtyp_HBW".di_Pos_Park_Vertical >= 0.0 AND "gtyp_HBW".di_Pos_Park_Vertical <= 0.0 THEN
+	IF (#newValue = TRUE AND #newValue = FALSE) = FALSE THEN
+		#foundViolations := TRUE;
+		#correctValue := FALSE
+	END_IF;
+END_IF;
+IF #foundViolations = FALSE THEN
+	"QX_MPO_Compressor_Q10" := #newValue;
+END_IF;
+ELSE
+	"QX_MPO_Compressor_Q10" := #correctValue;
+END_IF;

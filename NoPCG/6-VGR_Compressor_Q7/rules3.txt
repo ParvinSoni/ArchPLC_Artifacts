@@ -1,0 +1,15 @@
+1.  support = 1 (4%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Actual_Position in [20.0; 20.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+2.  support = 2 (8%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Increment in [2339.0; 2873.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+3.  support = 1 (4%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.Config.di_Pos_Window in [0.0; 0.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+4.  support = 1 (4%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Actual_Position in [396.0; 396.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+5.  support = 1 (4%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Target_Position in [0.0; 0.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+6.  support = 1 (4%) , confidence = 100 %  :  gtyp_HBW.di_PosBelt_Horizontal in [0.0; 0.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+7.  support = 1 (4%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Increment in [-11277.0; -11277.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+8.  support = 1 (4%) , confidence = 100 %  :  gtyp_SSC.Vertical_Axis.Config.di_Pos_Window in [0.0; 0.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+9.  support = 1 (4%) , confidence = 100 %  :  gtyp_SSC.Vertical_Axis.i_PWM in [0.0; 0.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+10.  support = 1 (4%) , confidence = 100 %  :  gtyp_SSC.di_Pos_Centre_Horizontal in [0.0; 0.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+11.  support = 1 (4%) , confidence = 100 %  :  gtyp_SSC.di_Pos_Park_Vertical in [0.0; 0.0]   -->   QX_VGR_Compressor_Q7 = FALSE
+12.  support = 1 (4%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Actual_Position in [23.0; 23.0]   -->   QX_VGR_Compressor_Q7 = TRUE
+13.  support = 1 (4%) , confidence = 100 %  :  gtyp_HBW.Horizontal_Axis.di_Increment in [2874.0; 2874.0]   -->   QX_VGR_Compressor_Q7 = TRUE
+14.  support = 2 (8%) , confidence = 100 %  :  gtyp_HBW.Vertical_Axis.di_Actual_Position in [3247.0; 3252.0]   -->   QX_VGR_Compressor_Q7 = TRUE
+15.  support = 1 (4%) , confidence = 100 %  :  gtyp_SSC.Horizontal_Axis.di_Increment in [16317.0; 16317.0]   -->   QX_VGR_Compressor_Q7 = TRUE
